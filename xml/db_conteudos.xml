@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<conteudos>
+
+                                                    <!-- PROBLEMATIZAÇÃO -->
+			<titulo1>PROBLEMATIZAÇÃO</titulo1>
+			<desc1>O presente trabalho de conclusão de curso após diversas análises de observação no bairro Jurumirim localizado na cidade de Registro/SP, aborda variados problemas vivenciados pela população que reside no bairro, como por exemplo:</desc1>
+			<desc1.1>- Em casos de transbordamentos de rios, onde muitas casas são localizadas perto dessa área, os moradores acabam ficando desabrigados;</desc1.1>
+            <desc1.2>- Outra problematização são as perdas de bens matérias e maquinários que os moradores enfrentam;</desc1.2>
+            <desc1.3>- Levando em consideração o fato desses indivíduos em algumas das circunstâncias não conseguirem sair de imediato de seu imóvel, e com isso acabam ficando ilhados sem ter acesso ao centro urbano.</desc1.3>
+			               
+						                         <!-- PROPSOTA DE INTERVENÇÃO -->
+			<titulo2>PROPOSTA DE INTERVENÇÃO</titulo2>
+			<desc2>A Young TEC's tem como proposta utilizar o nosso sistema, "Alert Zone's", para alertar por meio de notificações os moradores de possíveis transbordamentos de rios ou rompimentos de barragens e/ou diques, Priorizar a vida desses moradores, e também cuidar para que esses não percam seus bens materiais, Notificar também sobre a previsão do tempo, para que o morador já fique atento sobre possível alerta de alagamento ou transbordamento.</desc2>
+                 
+							                      <!-- FUNCIONAMENTO -->
+			<titulo3>COMO O SISTEMA FUNCIONA?</titulo3>
+			<desc3>Nosso sistema de prevenção é criar um aplicativo que alerte sobre os possíveis desastres ambientais (transbordamentos de rios e rompimentos de barragens ou diques), também queremos aletar moradores que não possuem acesso à internet ou que não possuem aparelho celular por meio de um 'buzzer' (pequeno alto-falante que emite sons em diversas frequências) e deixar os moradores da comunidade cientes da situação de risco, sobre a intensidade da chuva.</desc3>								  
+	
+	                                               <!-- INTEGRANTES -->
+	        <titulo4>INTEGRANTES</titulo4>
+			<participante01>Vinicius</participante01>
+			<participante02>Laisa</participante02>
+			<participante03>Milena</participante03>
+
+
+	                                         		<!-- BLOG -->
+			<titulo5>CONHEÇA MAIS SOBRE O PROJETO</titulo5>
+<blog>
+</blog>
+<blog>
+</blog>
+<blog>
+    <titulo>Razão do nosso projeto:</titulo>
+    <corpo>
+	Em São Paulo, cerca de 4% da população reside em zona rural, enquanto Registro (interior de São Paulo) a porcentagem do mesmo grupo é de 25% de 60.000 habitantes, na qual, muitos moradores que residem nesses locais enfrentam enchentes causados por rompimentos de barragens/diques e transbordamentos de rios.
+
+	Não somente Registro, mas outras cidades do Vale do Ribeira enfrentam a mesma situação, como Sete Barras que em 2018 registrou inundações em áreas de plantio e famílias desabrigadas. Em Eldorado os moradores passam pela mesma condição de cidades citadas anteriormente, como em 2016 que foi apontado que o nível do rio chegou a 7,02 m – casas, pastos, plantações foram tomados pela enchente.
+
+	Cidades como: Cajati, Eldorado, Juquiá, Sete Barras, Registro, Jacupiranga e Miracatu, passam pela triste realidade, mesmo que raramente, de vivenciar tragédias ambientais como rompimentos de barragens/diques –segundo pesquisas, essas cidades citadas acima são as que mais possuem riscos de serem alagadas por causa dessa situação, a de rompimentos.
+	</corpo>
+	   <imgpostagem>01.png</imgpostagem> 
+</blog>
+
+
+<blog>
+    <titulo>Fato que nos fez pensar sobre:</titulo>
+	<corpo>Em 1969 ocorrreu uma Inundações em SP colocam o Vale do Ribeira à beira da calamidade. As cidades que compõem o Vale do Ribeira, entre elas Registro, Sete Barras e Iguape, banhadas pelo rio que dá nome à região, encontram-se à beira do estado de calamidade. Toda a área está inundada.
+
+	Nesta sexta-feira (21), com o transbordamento do rio Ribeira e de seus afluentes Juquiá e Jacupiranga foram prejudicadas plantações ribeirinhas de arroz, milho, feijão e banana, principais fontes de riqueza da região sul de SP.
+	
+	Lavradores das áreas afetadas pelas fortes chuvas tiveram as casas inundadas. Muitos deles buscaram abrigo em locais mais altos das cidades e em encostas das montanhas, onde há plantações de chá.</corpo>
+        <imgpostagem>blog01.jpg</imgpostagem>
+</blog>
+	</conteudos>
